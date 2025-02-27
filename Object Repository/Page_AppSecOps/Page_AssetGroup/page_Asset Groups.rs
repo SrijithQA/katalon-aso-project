@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>page_Asset Groups</name>
+   <tag></tag>
+   <elementGuidId>e78b7a4a-0a98-4a86-8e6e-8fb2731adc15</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/ul/div/div/a[11]/text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>b5e000e6-b22a-4a08-8701-70078b2824ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>headerText</value>
+      <webElementGuid>90b154d0-2f56-4b20-bc7a-4386bb78427f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Asset Groups</value>
+      <webElementGuid>38ac9c6b-c7ff-41ec-a80a-d81e13014914</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;wrapper d-flex flex-column min-vh-100&quot;]/div[@class=&quot;body flex-grow-1 px-3&quot;]/div[@class=&quot;sidebar sidebar-fixed&quot;]/ul[@class=&quot;sidebar-nav&quot;]/div[@class=&quot;container-fluid&quot;]/div[1]/a[@class=&quot;menuLink&quot;]/text[@class=&quot;headerText&quot;]</value>
+      <webElementGuid>f9ff94d4-f42d-490b-8bb0-f2646d7349db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/ul/div/div/a[11]/text</value>
+      <webElementGuid>1d937c43-aaa8-4f77-b06a-04890d00c968</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Business Units'])[1]/following::text[1]</value>
+      <webElementGuid>53b498e6-aa48-4892-9197-42f585e1e6c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[1]/following::text[2]</value>
+      <webElementGuid>be09b117-177b-4837-afca-77ffbfe71550</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APPLICATION FINDINGS BY TYPE'])[1]/preceding::text[1]</value>
+      <webElementGuid>f028d383-c113-4309-9aa6-885cc3292251</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Asset Groups']/parent::*</value>
+      <webElementGuid>f6780c4c-ad35-4538-a47f-b7a9039c8e10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[11]/text</value>
+      <webElementGuid>7581db6f-81ab-4219-bcf7-a87b3d27ad6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//text[(text() = 'Asset Groups' or . = 'Asset Groups')]</value>
+      <webElementGuid>d6402400-964f-40de-9a7f-c56d634e33ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

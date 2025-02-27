@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Submit Ticket</name>
+   <tag></tag>
+   <elementGuidId>d33dbf7e-7df3-4de6-a2cc-4134520008a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(2) > button.btn.btn-primary.px-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5a10215b-be87-4918-b16e-cebde77ef491</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary px-3</value>
+      <webElementGuid>df35d2e0-b0a5-4895-a16c-2aa394e7c727</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4e61378a-f72f-45ae-ad16-6aad5aaf19b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submit Ticket</value>
+      <webElementGuid>df6e4285-f9ff-4792-b4fe-8c4d77c1dfb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;wrapper d-flex flex-column min-vh-100&quot;]/div[@class=&quot;body flex-grow-1 px-3&quot;]/div[@class=&quot;container-lg&quot;]/div[1]/div[1]/div[1]/div[2]/button[@class=&quot;btn btn-primary px-3&quot;]</value>
+      <webElementGuid>1a298508-d288-48b7-933d-4cba9e5aedd4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>5540a034-c52a-438e-a89e-5f66281ea04b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div/div/div/div[2]/button</value>
+      <webElementGuid>998d6fae-dc86-4d31-8b1d-5195cdf87bc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Note'])[1]/following::button[1]</value>
+      <webElementGuid>9b9b50ba-6b37-427a-b39e-fe700a0f57e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Allowed types: .png, .jpeg, .jpg, .doc, .docx, .gif, .pdf, .txt, .ppt, .xls, .xlsx, .zip, .csv'])[1]/following::button[1]</value>
+      <webElementGuid>6c5e0dc2-0285-431a-a521-9ec480c00108</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Submit Ticket']/parent::*</value>
+      <webElementGuid>228c94a1-a1aa-4f8f-9a22-35730af3a34c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>8bec8adb-3b43-4e35-8608-e206a0bbcf01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Submit Ticket' or . = 'Submit Ticket')]</value>
+      <webElementGuid>4fcf6009-4d1a-45f9-93d9-f034d8e7a3db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

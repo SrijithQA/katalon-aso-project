@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SAST_COMPLETED</name>
+   <tag></tag>
+   <elementGuidId>f6b6c761-aa91-42ef-bdb0-feecf2d4b014</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.tss-43jolg-MUIDataTableBodyCell-root.tss-1vd39vz-MUIDataTableBodyCell-stackedCommon.tss-11ncqdm-MUIDataTableBodyCell-responsiveStackedSmall > div > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8cf79a0f-5df7-4a22-966f-b84bcf49005a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>COMPLETED</value>
+      <webElementGuid>6885de43-6c01-48c5-9e43-9e1d895576c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;MUIDataTableBodyRow-030224807493731176-0&quot;)/td[@class=&quot;MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium tss-43jolg-MUIDataTableBodyCell-root tss-1y3wvy9-MUIDataTableBodyCell-stackedParent tss-iwylj0-MUIDataTableBodyCell-responsiveStackedSmallParent css-q34dxg&quot;]/div[@class=&quot;tss-43jolg-MUIDataTableBodyCell-root tss-1vd39vz-MUIDataTableBodyCell-stackedCommon tss-11ncqdm-MUIDataTableBodyCell-responsiveStackedSmall&quot;]/div[1]/span[1]</value>
+      <webElementGuid>f52b8918-f640-46da-8eaa-dbe760398b6b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='MUIDataTableBodyRow-030224807493731176-0']/td[8]/div[2]/div/span</value>
+      <webElementGuid>b4c197bc-568e-478f-bd64-fbfcc60d7366</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[2]/following::span[1]</value>
+      <webElementGuid>34e36ed4-bfc9-49bf-8aa3-862b33519c3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Completed At'])[2]/following::span[1]</value>
+      <webElementGuid>5b9e071f-5748-4263-a0a2-32dcaf2cd714</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[2]/preceding::span[1]</value>
+      <webElementGuid>1b043b69-24dc-47e9-8311-4e08e83bbc27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Report'])[1]/preceding::span[1]</value>
+      <webElementGuid>b1ad9cf6-8a06-49ef-b36c-af8ee5e3088a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='COMPLETED']/parent::*</value>
+      <webElementGuid>575af040-6825-4423-8b34-b47d77aa78af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/span</value>
+      <webElementGuid>ec124c17-1309-4a31-b816-e171344e967b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'COMPLETED' or . = 'COMPLETED')]</value>
+      <webElementGuid>6bd17a27-8aa5-429f-a940-ec4256fe0385</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

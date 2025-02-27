@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login page</description>
+   <name>appSecOps_Chrome</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6109c731-3f84-46a9-ae07-33ef82332569</testCaseGuid>
+</TestCaseEntity>

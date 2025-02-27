@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Ticket category</name>
+   <tag></tag>
+   <elementGuidId>0ed8a128-b6e5-4839-b452-2199baecf7d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#scanType</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='scanType']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>ee3826b5-73de-4188-9289-d60f7c6ca461</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>scanType</value>
+      <webElementGuid>609e09bb-21ad-4731-9321-bda8adf427cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-select white-input</value>
+      <webElementGuid>10999c94-3617-4117-b8b7-ab65aaca6886</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>User ActivitySupportNetworkVulnerability ManagementEndpointThreat ManagementCompliancePhishingVPNSuspicious activity</value>
+      <webElementGuid>610a68ab-1160-4b4b-b820-6b8a7bc02f59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;wrapper d-flex flex-column min-vh-100&quot;]/div[@class=&quot;body flex-grow-1 px-3&quot;]/div[@class=&quot;container-lg&quot;]/div[1]/div[1]/div[1]/div[2]/div[@class=&quot;input-group&quot;]/select[@id=&quot;scanType&quot;]</value>
+      <webElementGuid>8a0e0061-140f-4a5d-b2a5-c9ffae916d5b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='scanType']</value>
+      <webElementGuid>5e523bc1-0d53-4d5e-9f7d-aa3ab6bce09e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div/div/div/div[2]/div[2]/select</value>
+      <webElementGuid>cbc1e095-f20e-4ccd-b2cf-e17748808eff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ticket Category'])[1]/following::select[1]</value>
+      <webElementGuid>876355d4-f6ac-44c3-b35a-5ff7826a0fdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::select[1]</value>
+      <webElementGuid>49ae3125-3eb7-49b2-8843-e1f9204174ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Priority'])[1]/preceding::select[1]</value>
+      <webElementGuid>c87bfd53-e6aa-4cdf-8ba3-ba6598597732</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/preceding::select[2]</value>
+      <webElementGuid>2b4bd026-4ef4-46d6-a2aa-3ca7b459eab7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>4a3ca455-ed8a-4a02-bbce-aefa7dd3114f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'scanType' and (text() = 'User ActivitySupportNetworkVulnerability ManagementEndpointThreat ManagementCompliancePhishingVPNSuspicious activity' or . = 'User ActivitySupportNetworkVulnerability ManagementEndpointThreat ManagementCompliancePhishingVPNSuspicious activity')]</value>
+      <webElementGuid>0da97bf8-792a-49ef-9e68-ee17c8dd8167</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
